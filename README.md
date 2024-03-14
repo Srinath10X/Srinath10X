@@ -1,25 +1,15 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <p align="left">My name is Srinath and I'm a Student,from India</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
+<h2 align="left"> About me</h2>
 
 <p align="left">
   ✨ Creating bugs since 2022<br />📚 I'm currently learning Rust<br />🎯 Goals:
-  To become a Full Stack web developer<br />🎲 Fun fact: I use arch btw!
+  To become a Full Stack web developer<br /> 📫 How to reach me <b>srinathcreates@gmail.com</b><br />⚡ Fun fact: I use arch btw!
 </p>
 
-###
-
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img
@@ -53,5 +43,13 @@
   />
   <img width="12" />
 </div>
+<br/>
 
-#####
+<h1>📊 Github Stats</h1>
+<p align="center">
+    <img style="justify-self: center;" src="https://github-readme-stats.vercel.app/api?username=Srinath10X&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
+    <img style="justify-self: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=Srinath10X&theme=blueberry&hide_border=true"/>
+</p>
