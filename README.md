@@ -56,5 +56,3 @@
 <p align="center">
     <img style="justify-self: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath10X&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
 </p>
-
-![snake gif](https://github.com/Srinath10X/Srinath10X/blob/output/github-contribution-grid-snake.gif)
