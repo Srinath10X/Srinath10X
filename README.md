@@ -53,6 +53,7 @@
 <p align="center">
     <img style="justify-self: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=Srinath10X&theme=blueberry&hide_border=true"/>
 </p>
-<p align="center">
-    <img style="justify-self: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath10X&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
-</p>
+
+<h1> Contributions </h1>
+<img src="https://raw.githubusercontent.com/Srinath10X/Srinath10X/output/snake.svg" alt="Snake animation" />
+
