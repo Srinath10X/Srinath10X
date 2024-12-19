@@ -5,7 +5,7 @@
 <h2 align="left"> About me</h2>
 
 <p align="left">
-  ✨ Creating bugs since 2022<br />📚 I'm currently learning Rust<br />🎯 Goals:
+  ✨ Creating bugs since 2022<br />📚 I'm currently learning C++<br />🎯 Goals:
   To become a Full Stack web developer<br /> 📫 How to reach me <b>srinathcreates@gmail.com</b><br />⚡ Fun fact: I use arch btw!
 </p>
 
