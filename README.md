@@ -2,7 +2,7 @@
 
 I'm Srinath, a Computer Science student who loves coding and working on fun projects.
 
-[Check out my Website!](https://srinath10x.vercel.app/)
+[Check out my Website!](https://srinath.website/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Srinath10X&show_icons=true&theme=tokyonight" />
